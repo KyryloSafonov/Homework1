@@ -1,0 +1,36 @@
+body{
+    background-color: #b3e2e0;
+    font-family: "Times New Roman";
+}
+
+h1{
+  color: #4f4e4e;
+}
+
+.preview-logo{
+    height: 500px;
+    width: 400px;
+}
+.navigation{
+    font-size: 20px;
+}
+
+.biography{
+    font-size: 22px;
+}
+
+.filmography{
+    font-size: 20px;
+}
+
+img{
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 5%;
+    height: 500px;
+    width: 600px;
+}
+
+#gallery{
+    font-size: 30px;
+}
